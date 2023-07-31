@@ -73,7 +73,7 @@ const Aboutus=(props)=>{
             </div>
             <div className="whydsc d-flex">
                 <div className="text">
-                    <h2 data-aos="fade-up">Why DSC?</h2>
+                    <h2 data-aos="fade-up">Why GDSC?</h2>
                     <h6>
                     <span className="bold">Developer Students Club</span> is a globally recognized student body that helps students to have the opportunity to not only learn development skills, but also acts as a medium to apply them to real-life problems by finding solutions, and then showcasing their work within their communities. By developing solutions for local businesses/organizations, talented college students can now help the local community and have hands-on experience for building real-world applications.
                     </h6>
