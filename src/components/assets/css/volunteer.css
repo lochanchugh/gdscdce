@@ -1,6 +1,6 @@
 
 .containerV {
-  display: flex;
+  display: none;
   gap: 12px;
   width: 100%;
   background: #4070f4;
