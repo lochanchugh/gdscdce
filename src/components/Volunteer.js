@@ -14,6 +14,7 @@ import Diksha from './assets/images/voluntree/Disha Adak.jpg';
 
 const Volunteer = () => {
     return(
+        <!--
         <div>
             <section class="container containerV">
       <div class="cardV">
@@ -118,7 +119,7 @@ const Volunteer = () => {
       <a href="https://www.linkedin.com/in/prathamesh-wakekar-62529825a"></a>  
     </div>
    </section>
-        </div>
+        </div>-->
     )
 }
 
