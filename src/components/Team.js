@@ -39,101 +39,107 @@ const Team = () => {
                             Mname="Kriti Kumari"
                             Mdesc="Community lead"
                             Mphoto={ISHA}
-                            link="https://www.linkedin.com/in/isha-dabas-6b817a210"
+                            link="http://www.linkedin.com/in/kriti-kumari-342865248"
                         />
                     <h1 id="heading">Meat the Team!!</h1>
                         <TeamCard
-                            Mname="Mukul Sansanwal"
+                            Mname="Lochan"
                             Mdesc="Web Development Lead"
                             Mphoto={MUKUL}
-                            link="https://www.linkedin.com/in/mukul-sansanwal-7b698820b"
+                            link="https://www.linkedin.com/in/lochanchugh/"
                         />
 
                          <TeamCard
-                            Mname="Shivam Kumar"
+                            Mname="Ujjwal Aggarwal"
                             Mdesc="Web Development Lead"
                             Mphoto={SHIVAM}
-                            link="https://www.linkedin.com/in/shivam-kumar-b75774223"
+                            link="https://www.linkedin.com/in/ujjwal-aggarwal-669165252"
                         />
                         <TeamCard
-                            Mname="Sanjeev Arora"
-                            Mdesc="App development lead"
+                            Mname="Prathamesh Wakekar"
+                            Mdesc="Event Management Lead"
                             Mphoto={SANJEEV}
-                            link="https://www.linkedin.com/in/sanjeevarora3735"
+                            link="https://www.linkedin.com/in/prathamesh-wakekar-62529825a"
                         />
                          <TeamCard
-                            Mname="Harsh Vatsal"
-                            Mdesc="Application Development Lead"
+                            Mname="Avipsa Pradhan"
+                            Mdesc="Event Management Lead"
                             Mphoto={HARSH}
-                            link="https://www.linkedin.com/in/harsh-vatsal-63b294212"
+                            link="https://www.linkedin.com/in/avipsapradhan"
                         />
 
                         <TeamCard
-                            Mname="Samridhi"
+                            Mname="Shruti Yadav"
                             Mdesc="Outreach Team Lead"
                             Mphoto={SAMRIDHI}
-                            link="https://www.linkedin.com/in/samridhi6112"
+                            link="https://www.linkedin.com/in/shruti-yadav-10a504253"
                         />
 
                          <TeamCard
-                            Mname="Abhishek Kumar"
+                            Mname="Ritu"
                             Mdesc="Outreach team lead"
                             Mphoto={ABHISHEK}
-                            link="https://www.linkedin.com/in/abhishek-kumar-299a51223"
+                            link="https://www.linkedin.com/in/ritu-yadav-0bb447253"
                         />
 
                         <TeamCard
-                            Mname="Ansh Barman"
+                            Mname="Charu Sharma"
                             Mdesc="Content Team Lead"
                             Mphoto={ANSH}
-                            link="https://www.linkedin.com/in/ansh-barman-6159201ba"
+                            link="https://www.linkedin.com/in/charu-sharma-799284262"
                         />
 
                         <TeamCard
-                            Mname="Anshul Singh"
-                            Mdesc="Event Management Lead"
+                            Mname="Navya"
+                            Mdesc="Content Team Lead"
                             Mphoto={ANSHUL}
-                            link="https://www.linkedin.com/in/anshul-singh-34b309240"
+                            link="https://www.linkedin.com/in/navya-yadav-3443b5253?fromQR=1"
                         />
 
                         <TeamCard
-                            Mname="Deepti Kaushik"
-                            Mdesc="Event Management Lead"
+                            Mname="Sneha Pandey"
+                            Mdesc="UI/UX Lead"
                             Mphoto={DEEPTI}
-                            link="https://www.linkedin.com/in/deepti-kaushik-a8a42b218"
+                            link="https://www.linkedin.com/in/sneha-pandey-05a970223"
                         />
                         <TeamCard
-                            Mname="Sandhya Yadav"
+                            Mname="Mohit Rathee"
                             Mdesc="UI/UX Lead"
                             Mphoto={SANDHYA}
-                            link="https://www.linkedin.com/in/manish-kumar-singh-4995201a0"
+                            link="https://www.linkedin.com/in/mohitrathee051"
                         />
 
                          <TeamCard
-                            Mname="Kirti Kumari"
+                            Mname="Vineet Bhatt"
                             Mdesc="Design Team Lead"
                             Mphoto={KRITI}
-                            link="https://www.linkedin.com/in/kriti-kumari-342865248"
+                            link="https://www.linkedin.com/in/vineet-bhatt-8ab341235"
                         />
                         
                           <TeamCard
-                            Mname="Saakshi Singh"
-                            Mdesc="Content Creation lead"
+                            Mname="Aditi Sharma"
+                            Mdesc="Design Team lead"
                             Mphoto={SAAKSHI}
-                            link="https://www.linkedin.com/in/saakshi-singh-b4121a217"
+                            link="https://www.linkedin.com/in/aditi-sharma-4a39b827b"
                         />
                           <TeamCard
-                            Mname="Rohan Saini"
-                            Mdesc="Content Creation lead"
+                            Mname="Simran Bhardwaj"
+                            Mdesc="Social Media lead"
                             Mphoto={ROHAN}
-                            link="https://www.linkedin.com/in/rohan-saini-05b9b120b"
+                            link="https://www.linkedin.com/in/simran-bhardwaj-71b2a024a"
                         />
                         <TeamCard
-                            Mname="Tanush Arora"
+                            Mname="Anand Rai"
                             Mdesc="Social Media Lead"
                             Mphoto={TANUSH}
-                            link="https://www.linkedin.com/in/tanush-arora-b02b0b210"
-                        />       
+                            link="https://www.linkedin.com/in/anand-rai-384026146"
+                        /> 
+                         <TeamCard
+                            Mname="Tushar Khatri"
+                            Mdesc="App Development Lead"
+                            Mphoto={TANUSH}
+                            link="https://www.linkedin.com/in/tusharkhatriofficial"
+                        /> 
                     </div>
                     <h2>Our Volunteers</h2>
                     <div className="row">
