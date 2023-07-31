@@ -36,7 +36,7 @@ const Team = () => {
                     <h2>Our Core Team</h2>
                     <div className="row">
                         <TeamCard
-                            Mname="Isha Dabas"
+                            Mname="Kriti Kumari"
                             Mdesc="Community lead"
                             Mphoto={ISHA}
                             link="https://www.linkedin.com/in/isha-dabas-6b817a210"
