@@ -36,6 +36,7 @@
   border: 7px solid #fff;
 }
 .cardV h2 {
+  display: none;
   margin-top: 25px;
   color: #333;
   font-size: 22px;
