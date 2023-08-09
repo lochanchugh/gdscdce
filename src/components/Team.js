@@ -41,7 +41,7 @@ const Team = () => {
                             Mphoto={ISHA}
                             link="http://www.linkedin.com/in/kriti-kumari-342865248"
                         />
-                                <br>
+                                <h1></h1>
                     <h1 id="heading">Meet the Team!!</h1>
                         <TeamCard
                             Mname="Lochan"
