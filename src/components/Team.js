@@ -1,7 +1,7 @@
 import React, { Fragment } from 'react';
 import './assets/css/Team.css';
 import TeamCard from './TeamCard';
-import Kriti from './assets/images/TEAM PHOTOS/kriti_kumari_gdsc_lead.png';
+import KRITII from './assets/images/TEAM PHOTOS/kriti_kumari_gdsc_lead.png';
 import Avipsa from './assets/images/TEAM PHOTOS/avipsa_pradhan_event_management_lead.png';
 import Aditi from './assets/images/TEAM PHOTOS/aditi_singh_design_team_lead.png';
 import Anand from './assets/images/TEAM PHOTOS/anand_rai_social_meadia_lead.png';
@@ -38,7 +38,7 @@ const Team = () => {
                         <TeamCard
                             Mname="Kriti Kumari"
                             Mdesc="Community lead"
-                            Mphoto={Kriti}
+                            Mphoto={KRITII}
                             link="http://www.linkedin.com/in/kriti-kumari-342865248"
                         />
                                  <div className="row"></div>
