@@ -141,10 +141,10 @@ const Team = () => {
                             link="https://www.linkedin.com/in/tusharkhatriofficial"
                         /> 
                     </div>
-                    // <h2>Our Volunteers</h2>
-                    // <div className="row">
-                    // <Volunteer/>
-                    // </div>
+                    <h2> </h2>
+                    <div className="row">
+                    <Volunteer/>
+                    </div>
 
                 </div>
             </div>
