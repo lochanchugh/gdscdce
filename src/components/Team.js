@@ -142,9 +142,9 @@ const Team = () => {
                         /> 
                     </div>
                     // <h2>Our Volunteers</h2>
-                    <div className="row">
-                    <Volunteer/>
-                    </div>
+                    // <div className="row">
+                    // <Volunteer/>
+                    // </div>
 
                 </div>
             </div>
