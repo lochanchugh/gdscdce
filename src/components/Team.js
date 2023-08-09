@@ -1,10 +1,10 @@
 import React, { Fragment } from 'react';
 import './assets/css/Team.css';
 import TeamCard from './TeamCard';
-import ISHA from './assets/images/TEAM PHOTOS/IshaDabas_CommunityLead.jpg';
-import SAMRIDHI from './assets/images/TEAM PHOTOS/Samridhi.jpeg'
-import MUKUL from './assets/images/TEAM PHOTOS/Mukul_WebDev.jpg';
-import ANSH from './assets/images/TEAM PHOTOS/Ansh_ContentTeam.jpg';
+import Kriti from './assets/images/TEAM PHOTOS/kriti_kumari_gdsc_dce.png';
+import Avipsa from './assets/images/TEAM PHOTOS/avipsa_pradhan_event_management_lead.png';
+import Aditi from './assets/images/TEAM PHOTOS/aditi_singh_design_team_lead.png';
+import Anand from './assets/images/TEAM PHOTOS/anand_rai_social_meadia_lead.png';
 import SANDHYA from './assets/images/TEAM PHOTOS/Sandhya Yadav (ui ux design).jpg';
 import ANSHUL from './assets/images/TEAM PHOTOS/Anshul_EventManagement.jpg';
 import DEEPTI from './assets/images/TEAM PHOTOS/DeeptiKaushik_eventManagement.jpg';
@@ -38,7 +38,7 @@ const Team = () => {
                         <TeamCard
                             Mname="Kriti Kumari"
                             Mdesc="Community lead"
-                            Mphoto={ISHA}
+                            Mphoto={Kriti}
                             link="http://www.linkedin.com/in/kriti-kumari-342865248"
                         />
                                  <div className="row"></div>
@@ -65,7 +65,7 @@ const Team = () => {
                          <TeamCard
                             Mname="Avipsa Pradhan"
                             Mdesc="Event Management Lead"
-                            Mphoto={HARSH}
+                            Mphoto={Avipsa}
                             link="https://www.linkedin.com/in/avipsapradhan"
                         />
 
@@ -120,7 +120,7 @@ const Team = () => {
                           <TeamCard
                             Mname="Aditi Sharma"
                             Mdesc="Design Team lead"
-                            Mphoto={SAAKSHI}
+                            Mphoto={Aditi}
                             link="https://www.linkedin.com/in/aditi-sharma-4a39b827b"
                         />
                           <TeamCard
@@ -132,7 +132,7 @@ const Team = () => {
                         <TeamCard
                             Mname="Anand Rai"
                             Mdesc="Social Media Lead"
-                            Mphoto={TANUSH}
+                            Mphoto={Anand}
                             link="https://www.linkedin.com/in/anand-rai-384026146"
                         /> 
                          <TeamCard
