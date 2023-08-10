@@ -1,10 +1,10 @@
 import React, { Fragment } from 'react';
 import './assets/css/Team.css';
 import TeamCard from './TeamCard';
-import KRITII from './assets/images/TEAM PHOTOS/Sandhya Yadav (ui ux design).jpg';
-import AVIPSA from './assets/images/TEAM PHOTOS/Sandhya Yadav (ui ux design).jpg';
-import ADITI from './assets/images/TEAM PHOTOS/Sandhya Yadav (ui ux design).jpg';
-import ANAND from'./assets/images/TEAM PHOTOS/Sandhya Yadav (ui ux design).jpg';
+import KRITII from './assets/images/TEAM PHOTOS/IshaDabas_CommunityLead.jpg';
+import AVIPSA from './assets/images/TEAM PHOTOS/Sam ridhi.jpeg';
+import ADITI from './assets/images/TEAM PHOTOS/Ansh_ContentTeam.jpg';
+import ANAND from'./assets/images/TEAM PHOTOS/Mukul_WebDev.jpg';
 import SANDHYA from './assets/images/TEAM PHOTOS/Sandhya Yadav (ui ux design).jpg';
 import ANSHUL from './assets/images/TEAM PHOTOS/Anshul_EventManagement.jpg';
 import DEEPTI from './assets/images/TEAM PHOTOS/DeeptiKaushik_eventManagement.jpg';
