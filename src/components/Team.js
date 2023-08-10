@@ -1,7 +1,7 @@
 import React, { Fragment } from 'react';
 import './assets/css/Team.css';
 import TeamCard from './TeamCard';
-import ISHA from './assets/images/TEAM PHOTOS/IshaDabas_CommunityLead.jpg';
+import ISHA from './assets/images/TEAM PHOTOS/kriti_kumari_gdsc_lead.png';
 import SAMRIDHI from './assets/images/TEAM PHOTOS/Samridhi.jpeg';
 import ANSH from './assets/images/TEAM PHOTOS/Ansh_ContentTeam.jpg';
 import MUKUL from'./assets/images/TEAM PHOTOS/Mukul_WebDev.jpg';
