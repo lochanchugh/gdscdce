@@ -17,6 +17,7 @@ import ROHAN from './assets/images/TEAM PHOTOS/simran_social_media_lead.png';
 import SAAKSHI from './assets/images/TEAM PHOTOS/aditi_singh_design_team_lead.png';
 import HARSH from './assets/images/TEAM PHOTOS/avipsa_pradhan_event_management_lead.png';
 import ASHIMA from './assets/images/TEAM PHOTOS/Ashima.jpeg'
+import TUSHAR from './assets/images/TEAM PHOTOS/tushar_khatri_app_development_lead.png'
 import Volunteer from './Volunteer';
 const Team = () => {
     return (
@@ -138,7 +139,7 @@ const Team = () => {
                          <TeamCard
                             Mname="Tushar Khatri"
                             Mdesc="App Development Lead"
-                            Mphoto={TANUSH}
+                            Mphoto={TUSHAR}
                             link="https://www.linkedin.com/in/tusharkhatriofficial"
                         /> 
                     </div>
